@@ -1,0 +1,3 @@
+com\mycompany\trainin_ftp_client\infrastructure\service\FTPService.class
+com\mycompany\trainin_ftp_client\infrastructure\service\impl\FTPServiceImpl.class
+com\mycompany\trainin_ftp_client\Trainin_ftp_client.class
